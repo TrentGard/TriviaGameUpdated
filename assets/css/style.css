@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers');
+
+.body {
+    background-image: url('../images/coltsTrivia.jpg');
+    background-color: blue;
+}
+
+.container {
+    font-family: 'Bangers';
+    color: silver;
+}
+
+.title {
+    padding-top: 10%;
+    font-size: 100px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.start {
+    padding-top: 10%;
+    font-size: 100px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.start-button {
+    text-align: center;
+    padding: 50px 50px;
+    background-color: silver;
+}
+
+.timer {
+    padding-bottom: 5%;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    font-size: 50px;
+    width: 100%;
+}
+
+.questions {
+    padding-bottom: 20%;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    font-size: 50px;
+    width: 100%;
+}
+
+.answer {
+    margin: 2%;
+}
+
+.choices {
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    font-size: 50px;
+    width: 100%;
+}
+
+.answers {
+    object-fit: contain;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    font-size: 50px;
+}
+
+.results {
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    font-size: 50px;
+}
